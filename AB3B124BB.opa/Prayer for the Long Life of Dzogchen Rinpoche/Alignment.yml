@@ -1,0 +1,33 @@
+segment_sources:
+  P4E206A67:
+    type: origin_type
+    relation: translation
+    language: en
+  P74362109:
+    type: origin_type
+    relation: translation
+    language: es
+  PC9473C8F:
+    type: origin_type
+    relation: translation
+    language: nl
+  P20D4CD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ccdfa7079034479b8f3f7db386929f33:
+    P4E206A67: 1736a9fc8420426ba48a7fe15833b4b9
+    P74362109: bb41132533894fbdb340b564527486cb
+    PC9473C8F: f75c6bcd9981449c9890df3fdad11827
+    P20D4CD88: 0479c1460e4f4f77ad85850e7ce48a19
+  dec6e0815cc44b1ca8926197edf11e25:
+    P4E206A67: b49417e2698741f886e4e869665bd8fc
+    P74362109: 96a888772f11458982db38e909dc0d00
+    PC9473C8F: b1fab26408b14f27ac5d415822f5ab20
+    P20D4CD88: 9ee4a9425c4445bba5033b6c96fd03d9
+  984a6685b3c540118a890bf5f8aedcf9:
+    P4E206A67: 2b18a194278c4b3f84c8986348aa3345
+    P74362109: 2746ce9c569f4fcb960d458088942e1c
+    PC9473C8F: ddf8392cfb054dbd944828ec90e71061
+    P20D4CD88: a0aa142bb60a4e7185d5a442331e018b

@@ -1,0 +1,19 @@
+segment_sources:
+  P4E206A67:
+    type: origin_type
+    relation: translation
+    language: en
+  P20D4CD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bd750e4b7cbd461081aabbde022c3181:
+    P4E206A67: 541a56cc31134a029b8e763c115e321e
+    P20D4CD88: 805083dfe82b452aab77bc24fffb93de
+  521fd1f78e0c44afb17a7595de935589:
+    P4E206A67: 1cd0d2dec1fd42ea882efde44c02f38d
+    P20D4CD88: 131eacecc4eb4a1294792b1edad5cc5d
+  41727845125547828a4aa8cbafe20ddb:
+    P4E206A67: 24253c846cca494ebe62eef086856edc
+    P20D4CD88: cb57af46890540218e42c3c3f503a6ec

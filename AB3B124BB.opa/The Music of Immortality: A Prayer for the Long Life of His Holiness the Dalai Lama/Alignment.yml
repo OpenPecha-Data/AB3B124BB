@@ -1,0 +1,43 @@
+segment_sources:
+  P4E206A67:
+    type: origin_type
+    relation: translation
+    language: en
+  P74362109:
+    type: origin_type
+    relation: translation
+    language: es
+  PB8E05D05:
+    type: origin_type
+    relation: translation
+    language: fr
+  P20D4CD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  881acb0e344b4081b3e180f1107b865b:
+    P4E206A67: 55cb06c2db864adaa45eb7cd0c55e84c
+    P74362109: fa7c86b4241a4404953295dec02f0e66
+    PB8E05D05: 219bdce9f0c44f27b644e0b3c8fa23a6
+    P20D4CD88: 43f9185424684818a9cc194cb93e10f0
+  b55616bbe4c44b41828cb656851f60fd:
+    P4E206A67: 75ee2598b5a34ed09b212f852d730887
+    P74362109: f32f4486176847d88da318ac2b0c6ede
+    PB8E05D05: b3633770330e425fa4764493b45740c4
+    P20D4CD88: 16fe39ad7e834fb496ecc4beb36f2d88
+  98c5db5470324fc1841b22c760a2f48f:
+    P4E206A67: 06f7497114f24b1ca6620aadb904c861
+    P74362109: 242bba5473e1443a9ce208d62ca5a218
+    PB8E05D05: 3e732dc63dc7470791d76dc513b08269
+    P20D4CD88: 6de4cbd9607d41e287077c2b7e22ec63
+  0e94ecd10e0540bdae68ba88ada48fa3:
+    P4E206A67: 33fe4a56044c4a8aa54787e8d4a1dc94
+    P74362109: b8c3218e2c264fadbffdb40ea5bf0035
+    PB8E05D05: 0b5d2c2071df4531b24c17317a162cc6
+    P20D4CD88: c28f8d67706e48d3a2fe13178a2d4827
+  186cdc78fdf04e69be47b95fc86d955e:
+    P4E206A67: c8cd6732048441978418551deb9bc48a
+    P74362109: 8859b5a530c54f2981ce0429ffe9ac8b
+    PB8E05D05: 74e9d8d530674ac0a795a0a21639b357
+    P20D4CD88: 131d1f50cf7648049d5ca1c912abb0f2
